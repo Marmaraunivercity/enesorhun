@@ -1,0 +1,2 @@
+# enesorhun
+bilgisayar programcılığı sınıfındayım
